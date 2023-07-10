@@ -1,7 +1,7 @@
 # VBA-challenge
-===
+
 ## This is Module 2 Challenge. 
-====
+
 #### Create a VBA script that loops through all the stocks for one year and outputs the following information:
 
 ##### The ticker symbol
