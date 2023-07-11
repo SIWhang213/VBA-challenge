@@ -10,6 +10,6 @@
 *   The total stock volume of the stock
 *   Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
-### Attached files :
-* one vbs file including my VBA script
-* three screenshot files
+#### Attached files :
+* One vbs file including my VBA script
+* Three screenshot files
