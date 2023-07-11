@@ -2,7 +2,7 @@
 
 ## This is Module 2 Challenge. 
 
-#### Create a VBA script that loops through all the stocks for one year and outputs the following information:
+#### Goal: Create a VBA script that loops through all the stocks for one year and outputs the following information:
 
 *   The ticker symbol
 
@@ -12,4 +12,8 @@
 
 *   The total stock volume of the stock
 
-*   Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
+*   Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
+
+### Attached files :
+* one vbs file including my VBA script
+* three screenshot files
